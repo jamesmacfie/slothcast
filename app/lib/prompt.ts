@@ -91,15 +91,17 @@ export const ART_STYLES: string[] = [
  * Each entry includes the character name and their personality/interests.
  */
 export const CHARACTERS: string[] = [
-  "Lachlan - A spirited 12-year-old boy with endless energy for sports and competition. Whether he's dribbling a soccer ball down the field or sprinting across the athletics track, he's always chasing his next personal best.",
+  "Tim - A thoughtful father with a greying beard who finds joy in both creation and connection. Whether he's perfecting his latest homebrew, gaming alongside his sons, tending his garden, caring for his backyard chickens, or diving deep into research rabbit holes, he approaches everything with quiet curiosity and dedication."
 
-  "William - An enthusiastic 10-year-old boy who splits his time between the soccer pitch and his favorite anime shows. He often imagines himself as the protagonist of his own action-packed story, complete with special moves inspired by his beloved characters.",
+  // "Lachlan - A spirited 12-year-old boy with endless energy for sports and competition. Whether he's dribbling a soccer ball down the field or sprinting across the athletics track, he's always chasing his next personal best.",
 
-  "Thomas - A creative 7-year-old boy who loves the rush of running as much as the calm of crafting. His room is filled with handmade paper airplanes, painted rocks, and ribbons from local athletics events.",
+  // "William - An enthusiastic 10-year-old boy who splits his time between the soccer pitch and his favorite anime shows. He often imagines himself as the protagonist of his own action-packed story, complete with special moves inspired by his beloved characters.",
 
-  "Pepper - A mischievous tabby cat with the instincts of a natural-born hunter. The backyard goldfish pond and visiting birds have learned to fear this stealthy predator who treats every day like a safari.",
+  // "Thomas - A creative 7-year-old boy who loves the rush of running as much as the calm of crafting. His room is filled with handmade paper airplanes, painted rocks, and ribbons from local athletics events.",
 
-  "Evie - A gentle black Labrador with a heart as warm as her dark, glossy coat. She lives for belly rubs, enthusiastic games of fetch, and snuggling up next to anyone who'll share their couch space.",
+  // "Pepper - A mischievous tabby cat with the instincts of a natural-born hunter. The backyard goldfish pond and visiting birds have learned to fear this stealthy predator who treats every day like a safari.",
+
+  // "Evie - A gentle black Labrador with a heart as warm as her dark, glossy coat. She lives for belly rubs, enthusiastic games of fetch, and snuggling up next to anyone who'll share their couch space.",
 ];
 
 /**
